@@ -1,3 +1,3 @@
-## Michael's Personal Site
+## Image Password Strength
 
-This is the personal web site of Michael
+Change the password to see the effect
